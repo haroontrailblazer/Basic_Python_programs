@@ -1,4 +1,4 @@
-Python Basics Repository
+
 Welcome to the Python Basics Repository! 🎉
 
 About the Repository
